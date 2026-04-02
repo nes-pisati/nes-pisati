@@ -1,6 +1,6 @@
 # Ciao, I'm Vanessa! 👋
 
-### 👩‍💻 Junior Frontend Developer 
+### 👩🏻‍💻 Frontend Developer 
 
 I am a Frontend Developer with a solid background in **Digital Marketing and Branding**. I bridge the gap between high-level design concepts and technical execution, ensuring that every interface I build is both performant and aesthetically flawless.
 
@@ -26,6 +26,7 @@ I am a Frontend Developer with a solid background in **Digital Marketing and Bra
 ---
 
 ### 📫 Let's Connect!
+- 💻 **Portfolio:** [vanessapisati.com](https://vanessapisati.com)
 - 💼 **LinkedIn:** [linkedin.com/in/nes-pisati](https://www.linkedin.com/in/nes-pisati)
 - 📧 **Email:** pisati.vanessa@gmail.com
 
